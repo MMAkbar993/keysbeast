@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php -v)",
+      "Bash(composer -V)",
+      "Bash(php -m)",
+      "Bash(composer create-project *)"
+    ]
+  }
+}
